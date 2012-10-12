@@ -1,0 +1,12 @@
+{
+    "name":         "html-pacemaker"
+,   "description":  "Build for HTML WG specs"
+,   "private":      true
+,   "version":      "0.0.1"
+,   "author":       "Robin Berjon <robin@w3.org>"
+,   "dependencies": {
+    }
+,   "devDependencies": {
+    }
+,   "repository":   "git://github.com/w3c/html-pacemaker"
+}
